@@ -5,10 +5,15 @@
 - 💞️ I am currently looking for a software engineer internship for summer 2024
 - 📫 How to reach me: Email me at TerryByteCodes@icloud.com or message me on linkedin
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/terry-kucala-652683227/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
+<p>
+    <a href="https://www.linkedin.com/in/terry-kucala/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a> &nbsp; 
+    <a href="https://terrykucala.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logoColor=white&color=blue" alt="Portfolio Badge">
+    </a>
+</p>
+
   
 ---
   
