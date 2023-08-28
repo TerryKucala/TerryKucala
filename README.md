@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Terry. I am currently working on my CS major focusing on enterprise software at Northern Illinois University
 - 👀 I’m interested in video games and anime
-- 🌱 I’m currently learning Java for android programing 
+- 🌱 I’m currently learning about SQL and Java for android programing 
 - 💞️ I am currently looking for a software engineer internship for summer 2024
 - 📫 How to reach me: Email me at TerryByteCodes@icloud.com or message me on linkedin
 
