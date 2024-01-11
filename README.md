@@ -31,6 +31,8 @@
 ---
 
 <div>
+*Disclamer: Not all languages used will appear on this chart as I need to keep most repos private to stop future students of NIU from using my code. Refer to the logos above to see a list of languages I have worked with. 
+    <br><br>
     <a href="https://github.com/TerryKucala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerryKucala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!---
 z1943275/z1943275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
